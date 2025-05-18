@@ -23,8 +23,8 @@ A Python-based automation tool for scheduling and sending WhatsApp messages thro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rafiqdevhub/Watsapp_automation.git
-cd Watsapp_automation
+git clone hhttps://github.com/Rafiqdevhub/Whatsapp_automation.git
+cd Whatsapp_automation
 ```
 
 2. Install dependencies using UV package manager:
